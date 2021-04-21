@@ -7,7 +7,7 @@ const LoginHeader: React.FC = () => {
   return (
     <header className={Styles.headerWrap}>
       <Logo />
-      <h1>4Dev - Enquetes para Programadores</h1>
+      <h1>SmartEye</h1>
     </header>
   )
 }

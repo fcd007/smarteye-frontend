@@ -2,18 +2,19 @@
 
 .headerWrap {
   display: flex;
-  flex-direction: column;
+  flex-direction: inherit;
   border-top: 40px solid $primaryDark;
-  background-color: $primary;
+  background-color: $white;
   align-items: center;
 
   img {
-    margin-top: 40px;
+    margin-top: 30px;
   }
 
   h1 {
-    color: $white;
-    margin: 16px 0px 40px;
+    font-size: 2rem;
+    color: $primary;
+    margin: 16px 0px 20px;
   }
 }
 
