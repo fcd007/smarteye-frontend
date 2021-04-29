@@ -12,6 +12,7 @@ type Props = {
 
 const Input: React.FC<Props> = ({ type, name, placeholder }: Props) => {
   const [state, setState] = useRecoilState(loginState)
+
   return (
     <InputBase
       type={type}
