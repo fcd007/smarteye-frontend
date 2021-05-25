@@ -1,6 +1,6 @@
 {
   "name": "smarteye-frontend-boilerplate",
-  "version": "3.0.3",
+  "version": "0.0.1",
   "description": "NodeJs Rest API using TDD, Clean Architecture and Typescript",
   "author": "Projeto SmartEye",
   "homepage": "https://serverip-dns.com",
