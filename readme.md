@@ -1,3 +1,5 @@
+[![Build Status](https://www.travis-ci.com/smarteyern/smarteye-frontend.svg?branch=prod)](https://www.travis-ci.com/smarteyern/smarteye-frontend)
+[![Coverage Status](https://coveralls.io/repos/github/smarteyern/smarteye-frontend/badge.svg?branch=prod)](https://coveralls.io/github/smarteyern/smarteye-frontend?branch=prod)
 
 > ## Princípios
 
